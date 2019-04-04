@@ -4,5 +4,6 @@ words and email address to opt out, and form an email from a template.
 
 # Technologies used
 Javascript
+
 Ajax
 
